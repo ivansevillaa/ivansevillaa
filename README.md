@@ -1,12 +1,12 @@
 # Hi there 👋
 <img src="https://user-images.githubusercontent.com/45126550/91627183-0b26b200-e98c-11ea-8a84-4ebcfb8ecdbe.gif" width=200 align="right"/>
 
-I'm Ivan a JavaScript developer from Argentina
+<!--I'm Ivan, a JavaScript developer from Argentina
 
-🔭 Below I'll show you some projects that I developed with the goal of demostrate knowledge
+🔭 Below I'll show you some projects that I developed with the goal of demostrate knowledge-->
 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-NEXT
+<!--NEXT
 repo: https://github.com/ivansevillaa/next-fruits
 app: https://next-fruits.vercel.app/
  
@@ -48,7 +48,8 @@ repo: https://github.com/ivansevillaa/Netflix-Clone-API
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 FullStack Application
-repo: https://github.com/ivansevillaa/Netflix-Clone
+repo: https://github.com/ivansevillaa/Netflix-Clone 
+-->
 
 <!--
 **ivansevillaa/ivansevillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
