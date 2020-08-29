@@ -3,10 +3,10 @@
 
 <!--I'm Ivan, a JavaScript developer from Argentina
 
-🔭 Below I'll show you some projects that I developed with the goal of demostrate knowledge-->
+🔭 Below I'll show you some projects that I developed with the goal of demostrate knowledge
 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-<!--NEXT
+NEXT
 repo: https://github.com/ivansevillaa/next-fruits
 app: https://next-fruits.vercel.app/
  
@@ -49,9 +49,7 @@ repo: https://github.com/ivansevillaa/Netflix-Clone-API
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 FullStack Application
 repo: https://github.com/ivansevillaa/Netflix-Clone 
--->
 
-<!--
 **ivansevillaa/ivansevillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
