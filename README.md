@@ -8,7 +8,7 @@ I am able to develop a product end to end. Although my specialty is working in t
 🔭 Below I'll show you some projects that I developed with the goal of demonstrate knowledge in each technology that I use.  
 
 * An app that I developed with NextJS was [this](https://next-fruits.vercel.app/) and the code is [here](https://github.com/ivansevillaa/next-fruits).
-* In my free time I'm work in a full stack project with tools like react, webpack, babel, nodejs, express, mongodb, etc. You can see my progress [here](https://github.com/ivansevillaa/Netflix-Clone ).
+* In my free time I'm working in a full stack project with tools like react, webpack, babel, nodejs, express, mongodb, etc. You can see my progress [here](https://github.com/ivansevillaa/Netflix-Clone ).
 * Some projects that I developed only with React are [this](https://github.com/ivansevillaa/Ezshop) and [this](https://github.com/ivansevillaa/Podcasts)
 * Also work in the backend with node and express, [here](https://github.com/ivansevillaa/Netflix-Clone-API) you can see a movie API that I developed. And in this project I've used Passport and JSON Web Tokens.
 * I made this [simon game](https://ivansevillaa.github.io/Simon-Game) with vanilla js. The [code](https://github.com/ivansevillaa/Simon-Game).
