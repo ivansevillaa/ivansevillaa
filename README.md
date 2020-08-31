@@ -11,7 +11,7 @@ I am able to develop a product end to end. Although my specialty is working in t
 * In my free time I'm working in a full stack project with tools like react, webpack, babel, nodejs, express, mongodb, etc. You can see my progress [here](https://github.com/ivansevillaa/Netflix-Clone ).
 * I developed various projects with React, [this](https://github.com/ivansevillaa/Podcasts) is one, this is a podcast app.
 * Also work in the backend with node and express, [here](https://github.com/ivansevillaa/Netflix-Clone-API) you can see a movie API that I developed. And in this project I've used Passport and JSON Web Tokens.
-* I made this [simon game](https://ivansevillaa.github.io/Simon-Game) with vanilla js. The [code](https://github.com/ivansevillaa/Simon-Game).
+* I made this [simon game](https://ivansevillaa.github.io/Brand-DigitalProduct/) with vanilla js. The [code](https://github.com/ivansevillaa/Simon-Game).
 * The best work that I made when I started on web development world using only html and css is [this](https://github.com/ivansevillaa/Brand-DigitalProduct). Look at the [code](https://github.com/ivansevillaa/Brand-DigitalProduct).
 * My last landing page is [here](https://ivansevillaa.github.io/Huddle-Landing-Page/). I developed this with html and css. You can see the code in this [repo](https://github.com/ivansevillaa/Huddle-Landing-Page)
 
