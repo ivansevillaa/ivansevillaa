@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I like teaching so I created a blog to do it. You can take a look here: https://oscarrier.me
+I like teaching so I created a blog to do it. You can take [a look here](https://oscarrier-ivansevillaa.vercel.app/): 
 
 <img src="https://user-images.githubusercontent.com/45126550/91627183-0b26b200-e98c-11ea-8a84-4ebcfb8ecdbe.gif" width=200 align="right"/>
 <!-- 
